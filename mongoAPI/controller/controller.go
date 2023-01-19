@@ -13,7 +13,7 @@ import (
 	"net/http"
 )
 
-const connectionString = "mongodb+srv://rakesh:1234@cluster0.g55d7nv.mongodb.net/?retryWrites=true&w=majority"
+const connectionString = "mongodb+srv://yourUserName:yourPassword@cluster0.g55d7nv.mongodb.net/?retryWrites=true&w=majority"
 const dbName = "netflix"
 const colName = "watchlist"
 
